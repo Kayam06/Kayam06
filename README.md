@@ -1,4 +1,4 @@
-d[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://Kayam06.io)
+[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://Kayam06.io)
 <h1 align="center">Hi 👋, I'm Kayam Pathan</h1>
 <h3 align="center">AI & ML Enthusiast and Problem Solver</h3>
 
@@ -36,5 +36,7 @@ Python | TensorFlow | PyTorch | NLP | mySQL
 📜 ML & AI Specializations – Coursera & Industry Certifications.
 
 LinkedIN : https://www.linkedin.com/in/kayam06/
+
 Resume : https://drive.google.com/file/d/1qMA-_SQfjhQOBgRip7EuUoCq_qhS3VVp/view?usp=drive_link
+
 Leetcode : https://leetcode.com/u/kayam06/
