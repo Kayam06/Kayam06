@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on learning MERN stack web development
-
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working on learning Machine learning & GenAI
 
 - 🤝 You can connect with me at [LinkedIn](https://www.linkedin.com/in/kayam06)
 
-- 💬 Ask me about **Websites and video games**
+- 💬 Ask me about **AI models and video games**
 
 - 📫 How to reach me **kayampathan06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d-aIio7ILKLGMgSRL-Y2Yt4heAJE2ANW/view?usp=share_link](https://drive.google.com/file/d/1d-aIio7ILKLGMgSRL-Y2Yt4heAJE2ANW/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qMA-_SQfjhQOBgRip7EuUoCq_qhS3VVp/view?usp=drive_link](https://drive.google.com/file/d/1qMA-_SQfjhQOBgRip7EuUoCq_qhS3VVp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
